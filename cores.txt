@@ -1,0 +1,4 @@
+vermelho - #D63230
+branco - #F2F3D9
+azul - #78C3FB
+
